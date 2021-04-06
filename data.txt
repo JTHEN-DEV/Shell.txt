@@ -1,0 +1,14 @@
+Home
+-Documents
+--Document1.txt
+--Document2.docx
+--SubFolder
+---SubSubFolder
+---SubFile.txt
+-Music
+--File1.mp3
+--File2.mp3
+-Pictures
+--Img1.png
+--Img2.png
+--Img3.jpeg
